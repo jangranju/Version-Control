@@ -1,0 +1,15 @@
+{
+  "name": "version-control",
+  "version": "0.0.1",
+  "description": "this is a lesson on version control, git, heroku",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css"
+  ],
+  "author": "Anju",
+  "license": "ISC"
+}
